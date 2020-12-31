@@ -240,5 +240,11 @@ ipython_config.py
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
 
-!/Supervised Learning with scikit-learn/.ipynb_checkpoints/
-!/Supervised Learning with scikit-learn/.idea/
+!/07 - Supervised Learning with scikit-learn/.ipynb_checkpoints/
+!/07 - Supervised Learning with scikit-learn/.idea/
+.idea/.gitignore
+.idea/Machine Learning for Everyone.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
